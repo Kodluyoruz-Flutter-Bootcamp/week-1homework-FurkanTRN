@@ -1,15 +1,14 @@
-# Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+# Week - 1
 
 # Homework 
-```Ödev```
+```Hesap Makinesi```
 
 
 ## Homework Description
 
-```Ödev Açıklaması ```
+```Basit hesap makinesi yapımı ```
 
 
 ## Author
 
-```Ödevi yapan```
+```Furkan torun```
